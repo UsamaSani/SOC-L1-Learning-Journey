@@ -16,7 +16,17 @@ This guide bridges the gap between theory and practice, offering real-world scen
 
 A complete video walkthrough of this guide, demonstrating real-world SOC operations, alert triage workflows, and SIEM analysis techniques.
 
-[![SOC Analyst Guide Walkthrough](thumbnail.png)](https://drive.google.com/file/d/1LxNaNDZwKiJFIOzTNam-taBBw_7xiOEF/view?usp=sharing)
+<!-- [![SOC Analyst Guide Walkthrough](thumbnail.png)](https://drive.google.com/file/d/1LxNaNDZwKiJFIOzTNam-taBBw_7xiOEF/view?usp=sharing) -->
+<!-- If your platform supports HTML video embedding, use the following. Replace the src with a direct .mp4 link if available. Google Drive links do not embed directly. -->
+<video width="640" height="360" controls poster="thumbnail.png">
+	<source src="https://drive.google.com/uc?export=download&id=1LxNaNDZwKiJFIOzTNam-taBBw_7xiOEF" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+
+<!-- If you have a YouTube link, use this instead: -->
+<!--
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+-->
 
 
 **Video Topics Will Cover:**
